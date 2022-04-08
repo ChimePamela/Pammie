@@ -79,11 +79,11 @@ ul li a:hover{
    border: 1.5px solid rgb(53, 85, 5);
    margin-top: 13px;
    color: honeydew;
-border-right: none;
-font-weight: bold;
-font-size: 16px;
-float: left;
-padding: 10px;
+   border-right: none;
+  font-weight: bold;
+  font-size: 16px;
+  float: left;
+  padding: 10px;
 border-bottom-left-radius: 5px;
 border-top-left-radius: 5px;
 }
@@ -161,11 +161,11 @@ border-top-left-radius: 5px;
    width: 250px;
    height: 380px;
    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%);
-position: absolute;
-padding: 25px;
-top: -20px;
-left: 870px;
-border-radius: 10px;
+   position: absolute;
+   padding: 25px;
+   top: -20px;
+   left: 870px;
+   border-radius: 10px;
 }
 
 .form h2{
@@ -175,8 +175,8 @@ border-radius: 10px;
    color: white;
    
    font-size: 18px;
-margin: 2px;
-padding: 8px;
+   margin: 2px;
+   padding: 8px;
 }
 
 .form input{
@@ -214,8 +214,8 @@ font-family: 'Times New Roman';
    border-radius: 10px;
    cursor: pointer;
    color: black;
- transition: 0.4s ease;
- margin-left: 10px;
+   transition: 0.4s ease;
+   margin-left: 10px;
 }
 
 .btnn:hover{
